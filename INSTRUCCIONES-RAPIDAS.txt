@@ -1,0 +1,10 @@
+ITOS ACADEMY - PROTOTIPO FUNCIONAL V5
+
+Credenciales:
+Super Admin: superadmin@itosacademy.com / Admin123
+Supervisor: supervisor@itosacademy.com / Admin123
+Empleado: empleado@itosacademy.com / Admin123
+
+Empleado NO tiene Dashboard y entra directamente a Cursos.
+Estado inicial: Seguridad 0%, Comunicación 50%, Inducción sin asignar.
+Use Restablecer demo desde Super Admin antes de iniciar una nueva prueba.
